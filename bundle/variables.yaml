@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-citest
+- admin-user: johnnyknoxville1337-admin
+- manager-user: johnnyknoxville1337
